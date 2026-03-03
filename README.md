@@ -1,6 +1,9 @@
 # wanderly
 
+<img width="1211" height="586" alt="wanderly-home" src="https://github.com/user-attachments/assets/7c17a99c-abb5-42af-990d-106e7033fa2e" />
+
 ## Description
+
 Wanderly is a travel planning web app that generates trip itineraries and destination guides using Google Gemini, stores data in Firebase, and renders a responsive UI with Tailwind CSS. The app supports images for destinations/attractions and uses caching and streaming for better performance.
 
 ## Technologies & Tools
